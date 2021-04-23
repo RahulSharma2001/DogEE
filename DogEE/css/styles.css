@@ -1,0 +1,26 @@
+body{
+  font-family: 'Montserrat';
+}
+#title {
+    background-color: #ff4c68;
+    color: Black;
+}
+h1, .text1 {
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight:600;
+
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+  font-family: "Montserrat";
+}
+.title-img{
+  width:60%;
+  transform: rotate(25deg);
+}
